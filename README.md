@@ -5,3 +5,5 @@
 #### 2. leetcode의 다양한 문제 풀이 및 해설
 
 https://leetcode.com/problemset/all/
+
+#### 3. 유용한 코드 및 기법 탐색
